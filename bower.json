@@ -1,0 +1,23 @@
+{
+  "name": "openly_plov_bower",
+  "homepage": "https://github.com/joshbrooks/openly_plov_bower",
+  "authors": [
+    "Joshua Brooks <josh.vdbroek@gmail.com>"
+  ],
+  "description": "Resources for openly_plov",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "leaflet": "^1.0.3",
+    "riot": "^3.4.2",
+    "RiotControl": "riotcontrol#*",
+    "riot-route": "^3.1.1"
+  }
+}
